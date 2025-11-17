@@ -8,4 +8,4 @@ let applePricePerKilo = 3.43;
 let weightOf4Bananas = bananaWeight*4;
 let priceOf4Bananas = weightOf4Bananas * bananaPricePerKilo;
 console.log (applePricePerKilo);
- 
+
