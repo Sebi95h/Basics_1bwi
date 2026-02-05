@@ -21,6 +21,6 @@ if (type == "+") {
 } if (type == "/") {
     let result = Number1 / Number2
 
-    console.log(result)
+      console.log(result)
 }
 
