@@ -1,0 +1,22 @@
+.modern {
+    font-size: 50px;
+    padding: 10px;
+    padding-right: 30px;
+    width: fit-content;
+    background: linear-gradient(
+        to bottom,
+        red 0%,
+        red 33%,
+        white 33%,
+        white 66%,
+        red 66%,
+        red 100%
+    );
+    border-radius: 10px;
+    border: 5px solid black;
+}
+body {
+    background: url("Österreich Flagge.png");
+    background-size: cover;
+}
+
