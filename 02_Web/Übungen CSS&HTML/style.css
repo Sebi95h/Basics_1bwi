@@ -1,0 +1,42 @@
+.parent {
+    position: relative;
+    background-color: lightblue;
+    width: 600px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.box {
+    position: absolute;
+    background-color: burlywood;
+    width: 100px;
+    height: 100px;
+    right: 0;
+    bottom: 0;
+}
+
+li {
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+    font-size: 30px;
+}
+
+.corner {
+    position: fixed;
+    width: 150px;
+    height: 150px;
+    background-color: violet;
+    right: 0;
+    top: 0;
+}
+
+.fortnite {
+
+
+    height: 150px;
+    background-color: yellow;
+
+}
