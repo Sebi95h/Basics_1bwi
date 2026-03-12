@@ -33,10 +33,30 @@ li {
     top: 0;
 }
 
-.fortnite {
-
-
-    height: 150px;
+.uncle {
+ 
+    margin-top: 100px;
+    width: 100vw;
+    height: 200px;
     background-color: yellow;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
 
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.nephew {
+
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  margin: 130px;
+  position: relative;
+  top: -80px;
+    
 }
