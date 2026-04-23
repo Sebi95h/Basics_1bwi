@@ -1,0 +1,62 @@
+.parent {
+    position: relative;
+    background-color: lightblue;
+    width: 600px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.box {
+    position: absolute;
+    background-color: burlywood;
+    width: 100px;
+    height: 100px;
+    right: 0;
+    bottom: 0;
+}
+
+li {
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+    font-size: 30px;
+}
+
+.corner {
+    position: fixed;
+    width: 150px;
+    height: 150px;
+    background-color: violet;
+    right: 0;
+    top: 0;
+}
+
+.uncle {
+ 
+    margin-top: 100px;
+    width: 100vw;
+    height: 200px;
+    background-color: yellow;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.nephew {
+
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  margin: 130px;
+  position: relative;
+  top: -80px;
+    
+}
